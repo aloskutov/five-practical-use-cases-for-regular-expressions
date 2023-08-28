@@ -2,7 +2,7 @@
 
 Примеры к статье [Пять практических примеров использования регулярных выражений](https://www.dev-notes.ru//articles/javascript/five-practical-use-cases-for-regular-expressions/), переводу статьи [Five Practical Use Cases For Regular Expressions](https://blog.openreplay.com/five-practical-use-cases-for-regular-expressions/).
 
-Статья будет опубликована 1 сентября 2023 г.
+Публикация статьи запланирована на 1 сентября 2023 г.
 
 ## Валидация данных
 
