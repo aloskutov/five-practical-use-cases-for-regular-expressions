@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Форма валидации данных</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h2 class="label">User Details</h2>
+    <div class="Reg_form" action="login.html" method="post" name="Login-form">
+      <label class="Fname">Email</label>
+      <input type="text" name="email" id="mail" />
+      <div id="InvalidEmail">Укажите валидный e-mail</div>
+      <label class="Fpassword">Password</label>
+      <input type="text" name="Password" id="Pass" />
+      <div id="InvalidPassword">Внимание! Вводите только правильный пароль</div>
+      <button type="button" onclick="validated()">Вход</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

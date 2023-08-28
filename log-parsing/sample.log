@@ -1,0 +1,5 @@
+[2023-07-01 15:30:20] INFO: Application started.
+[2023-07-01 15:32:45] ERROR: Database connection failed.
+[2023-07-01 15:34:12] INFO: User logged in (username: john_doe).
+[2023-07-01 15:40:03] WARNING: Disk space low, consider freeing up space.
+[2023-07-01 15:45:18] ERROR: Request timed out (url: /api/data).

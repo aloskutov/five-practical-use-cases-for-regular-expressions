@@ -1,0 +1,40 @@
+:root {font-size: 18px;}
+
+body {background-color: #98f;}
+
+.container {
+  margin: 10em auto;
+  width: 360px;
+  background-color: #ddd;
+  border-radius: 1em;
+  padding: 1em;
+}
+
+.label {text-align: center;}
+
+.Fname, .Fpassword {
+  display: block;
+  margin: 0.5em 0 0.2em;
+}
+
+.Reg_form {margin: 2em;}
+
+#InvalidEmail, #InvalidPassword{
+  display: none;
+  background-color: #faa;
+  border: 1px solid #f88;
+  color: #f00;
+  margin: 0.1em;
+  padding: 1em;
+}
+
+input {
+  display: block;
+  width: 300px;
+}
+
+button {
+  display: block;
+  margin: 1em auto;
+  font-size: 1rem;
+}
